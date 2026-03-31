@@ -1,3 +1,6 @@
+Student Name: Aryam Singh 
+Registration Number: 24BAI10624  
+Course: Programming in Java
 # Library Management System
 
 A Java-based command-line application designed to manage and simulate a real-world library system. The application supports book inventory management, issuance tracking, and penalty calculation for overdue returns, while ensuring persistent data storage across sessions.
